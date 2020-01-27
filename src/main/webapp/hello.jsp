@@ -6,7 +6,7 @@
     <title>Hello</title>
 </head>
 <body>
-    Hello-jenk ${name}
+    Hello- ${name}
     </br>
     ${message}
 </body>
