@@ -6,7 +6,7 @@
     <title>Hello</title>
 </head>
 <body>
-    Hello-VK ${name}
+    Hello ${name}
     </br>
     ${message}
 </body>
